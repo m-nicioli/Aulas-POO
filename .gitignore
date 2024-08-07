@@ -1,0 +1,15 @@
+# Ignora executáveis MacOS 
+*
+!/**/
+!*.*
+
+# Ignora arquivos objetos
+*.slo
+*.lo
+*.o
+*.obj
+
+# Ignora executáveis
+*.exe
+*.out
+*.
