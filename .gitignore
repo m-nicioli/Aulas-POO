@@ -14,4 +14,6 @@
 *.out
 *.app
 
-# Ignora a parta .DS
+# Ignora a parta .DS_Store
+.DS_Store
+**/.DS_Store
