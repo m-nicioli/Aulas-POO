@@ -12,4 +12,6 @@
 # Ignora executáveis
 *.exe
 *.out
-*.
+*.app
+
+# Ignora a parta .DS
