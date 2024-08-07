@@ -1,4 +1,4 @@
-# Arquivos da Aula POO - :shipit:
+# Arquivos da Aula POO — :shipit:
 
 Este repositório contém os arquivos referentes aos códigos e exercícios desenvolvidos na aula de **Programação Orientada à Objetos**,
 ministrada pelo Prof. Paulo Giovani.
