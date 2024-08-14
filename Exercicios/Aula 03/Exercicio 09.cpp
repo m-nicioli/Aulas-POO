@@ -35,6 +35,14 @@ int main() {
         r = a % b;
         a = b;
         b = r;
-    }
+    } while ( b != 0 );
+
+    // Exibe o resultado
+    cout << "\n => Considerando " << quadradas << " pecas quadradas e ";
+    cout << triangulares << " pecas triangulares, devemos ter no maximo ";
+    cout << a << " participantes. \n\n";
+
+    // Fim do programa
+    return 0;
 
 }
